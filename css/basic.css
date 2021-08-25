@@ -7,7 +7,9 @@ body {
   background-color: #ff652f;
   display: flex;
   border: 5px solid blue;
-  justify-content: flex-start;
+  justify-content: center;
+  height: 100px;
+  align-items: flex-end;
 }
 
 .search {
