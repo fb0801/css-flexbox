@@ -1,7 +1,7 @@
 @import 'config';
 
 
-.body{
+body{
     color: white;
 }
 
@@ -10,8 +10,15 @@
     background-color: $secondary-color;
     display: flex;
     border: 5px solid blue;
+    justify-content: flex-start;
  
 }
 
+.search{
+    background-color: chartreuse;
+    margin-left: auto;
+}
 
-
+.home{
+    background-color: blue;;
+}
