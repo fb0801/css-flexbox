@@ -23,7 +23,12 @@ body{
 }
 
 .home{
-    background-color: blue;;
+    background-color: blue;
+   /* flex:1 ;
+    flex-grow: ;
+    flex-shrink: ;
+    flex-basis: ;*/
+    flex-basis: 200px;
 }
 
 .logout{
