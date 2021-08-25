@@ -16,9 +16,14 @@ body{
 
 .search{
     background-color: chartreuse;
-    margin-left: auto;
+    //margin-left: auto;
+    flex: 2;
 }
 
 .home{
     background-color: blue;;
+}
+
+.logout{
+    align-self: flex-start;
 }
