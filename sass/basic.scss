@@ -1,0 +1,17 @@
+@import 'config';
+
+
+.body{
+    color: white;
+}
+
+
+.container{
+    background-color: $secondary-color;
+    display: flex;
+    border: 5px solid blue;
+ 
+}
+
+
+

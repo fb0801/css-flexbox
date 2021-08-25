@@ -1,0 +1,10 @@
+/*colors to be used*/
+.body {
+  color: white;
+}
+
+.container {
+  background-color: #ff652f;
+  display: flex;
+  border: 5px solid blue;
+}/*# sourceMappingURL=basic.css.map */
